@@ -40,3 +40,25 @@ Year  |	Rate  |	Change
 After taking inflation  into account, our curves have changed dramatically.
 (https://github.com/aykseldi/Data-Preprocessing-with-R/blob/master/ggplot_year_amount_with_inflation.png)
 2006  | 9.65 	|1.93
+
+
+## Links
+
+Even though this information can be found inside the project on machine-readable
+format like in a .json file, it's good to include a summary of most useful
+links to humans using your project. 
+
+- Project homepage: https://github.com/aykseldi/Data-Preprocessing-with-R
+- Repository: https://github.com/aykseldi/Data-Preprocessing-with-R
+- Issue tracker: https://github.com/aykseldi/Data-Preprocessing-with-R/issues
+  - In case of sensitive bugs like security vulnerabilities, please contact
+    aykseldi1@yahoo.com directly instead of using issue tracker. We value your effort
+    to improve the security and privacy of this project!
+- Related projects:
+  - My other project: https://github.com/aykseldi/Outlier-Detection-and-Predicting-the-Game-Outcome
+
+
+
+## Licensing
+
+"The code in this project is licensed under MIT license."
